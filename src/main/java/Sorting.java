@@ -14,7 +14,7 @@ import javax.swing.JFrame;
  */
 
 public class Sorting {
-
+//Verticality!
     /** Increment to sweep the sort. */
     private static final int SORT_INCREMENT = 10000;
 
